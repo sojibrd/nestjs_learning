@@ -4,7 +4,7 @@ NestJS-এর ৪০টা best practice, ৪৫ দিনে। দিনে �
 
 rule-গুলো `nestjs-best-practices` skill থেকে হুবহু নেওয়া — লেখক আর লাইসেন্স [guide/README.md](guide/README.md)-এ। গড়ন [nextjs_learning](https://sojibrd.github.io/nextjs_learning/)-এর মতো।
 
-**লাইভ:** https://sojibrd.github.io/nestjs_learning/ — deploy-এর পরে; ২০২৬-১০-১১-এ এখনো হয়নি।
+**লাইভ:** https://sojibrd.github.io/nestjs_learning/
 
 ## Functional Requirement
 
